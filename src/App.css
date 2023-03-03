@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(206, 105, 237);
+    margin: 0;
+    padding: 10px;
+    border: solid 2px rgb(203, 240, 53);
+  }
+
+  li {
+    text-align: right; 
+    list-style: none;
+    padding: 5px;
+  }
+  
+  h1 {
+    color: rgb(222, 97, 97);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  body {
+    margin: 0;
+    margin-top: 0;
+    padding: 0;
+}
