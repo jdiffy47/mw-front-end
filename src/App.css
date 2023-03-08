@@ -1,8 +1,10 @@
+main {
+  background-color: #fff;
+}
+
 nav {
-    background-color: rgb(206, 105, 237);
     margin: 0;
     padding: 10px;
-    border: solid 2px rgb(203, 240, 53);
   }
 
   li {
@@ -25,4 +27,25 @@ nav {
     margin: 0;
     margin-top: 0;
     padding: 0;
+    background-color: #1E0D30;
+}
+
+.welcome-title {
+  color: #FC7AC8;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-message {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.welcome-p {
+  color: #fff;
+  font-size: x-small;
 }
